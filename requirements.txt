@@ -40,7 +40,7 @@ pybars3==0.9.3
 pycparser==2.18
 pycrypto==2.6.1
 PyHive==0.3.0
-PyJWT==1.6.4
+PyJWT==2.4.0
 PyMeta3==0.5.1
 pymongo==3.2.2
 pyOpenSSL==18.0.0
